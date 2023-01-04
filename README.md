@@ -1,5 +1,7 @@
 # MapApp Haking with swift
-Map App 
+Teach users about geography while you learn about MKMapView and annotations.
+
+
 
 # Topics 
 MKMapView, MKAnnotation, MKPinAnnotationView, CLLocationCoordinate2D
